@@ -1,0 +1,18 @@
+#cargando {
+    display: none;
+}
+footer{
+    background-color: #343A40;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items: center;
+}
+.grid div {
+    margin-top: 50px;
+    
+}
+.grid__parrafo{
+    color: whitesmoke;
+}
